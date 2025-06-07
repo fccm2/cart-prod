@@ -1,0 +1,3 @@
+To the extent permitted by law, you can use these functions
+under the prefered license for inclusion in opam (ISC), or
+any other fsf/osi approuved license.
